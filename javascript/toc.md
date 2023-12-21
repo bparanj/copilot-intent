@@ -7,7 +7,8 @@
 5. Return first characger.
 6. Using Copilot /explain feature.
 7. Providing an example for Copilot.
-
-```javascript
-
-```
+8. How to chop a given string.
+9. Provide sample input and output to a function.
+10. Copilot is not a mind reader. Needs more than just comment to generate JS doc.
+11. String interpolation.
+12. Multiline string.
