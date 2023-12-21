@@ -8,7 +8,7 @@ You will learn the effective way to prompt Copilot by examples.
 
 ## Why Silent Video?
 
-Each lesson has its own YouTube video with no audio. The duration of each video is about 60 seconds. No audio means your brain will be able to process the code easily. It has to make the connections by itself instead of being told by someone. Your brain is more active than listening and watching a video to learn.
+Each lesson has its own YouTube video with no audio. The duration of each video is about 60 seconds. No audio means your brain will be able to process the code easily. It has to make the connections by itself instead of being told by someone. Your brain is more active than listening and watching a video passively to learn.
 
 ## Review by ChatGPT
 
