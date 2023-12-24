@@ -12,3 +12,8 @@
 10. Copilot is not a mind reader. Needs more than just comment to generate JS doc.
 11. String interpolation.
 12. Multiline string.
+13. Capitalize a sentence.
+14. Basics of Javascript debugger in VS code.
+15. Convert number to a string.
+16. Using JS doc with VS code for type error checks.
+17. Using lint in a Javascript project
