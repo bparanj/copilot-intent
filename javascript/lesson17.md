@@ -79,3 +79,8 @@ Setting up a linter in a simple JavaScript project in Visual Studio Code typical
     Then you can run `npm run lint` to lint your entire project.
 
 That's it! Your VS Code environment is now set up with ESLint, which will help you identify and fix issues in your JavaScript code according to the rules you've specified.
+
+```javascript
+console.log(number); // Attempting to use 'number' before it's declared
+const number = 10;
+```
