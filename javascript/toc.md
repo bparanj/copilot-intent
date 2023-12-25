@@ -25,3 +25,4 @@
 23. Immediately Invoked Function Expression
 24. Pass by value
 25. Rest parameters
+26. Passing Functions as Arguments
