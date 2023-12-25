@@ -21,3 +21,5 @@
 19. Hoisting of functions
 20. Function expressions
 21. Arrow function
+22. Function constructor
+23. Immediately Invoked Function Expression
