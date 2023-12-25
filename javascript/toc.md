@@ -20,3 +20,4 @@
 18. Primitive data types are immutable
 19. Hoisting of functions
 20. Function expressions
+21. Arrow function
