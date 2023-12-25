@@ -18,4 +18,5 @@
 16. Using JS doc with VS code for type error checks.
 17. Using lint in a Javascript project
 18. Primitive data types are immutable
-19. Hoisting
+19. Hoisting of functions
+20. Function expressions
