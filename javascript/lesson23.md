@@ -6,3 +6,11 @@
   console.log(new Date().toLocaleString());
 })();
 ```
+
+Since this function executes without calling it explicity, we can remove the name of the function and it will be executed:
+
+```javascript
+(function () {
+  console.log(new Date().toLocaleString());
+})();
+```
