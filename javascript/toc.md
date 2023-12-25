@@ -26,3 +26,5 @@
 24. Pass by value
 25. Rest parameters
 26. Passing Functions as Arguments
+27. Function scope
+28. Closure
