@@ -23,3 +23,5 @@
 21. Arrow function
 22. Function constructor
 23. Immediately Invoked Function Expression
+24. Pass by value
+25. Rest parameters
