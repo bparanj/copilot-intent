@@ -33,3 +33,4 @@
 31. bind
 32. call
 33. apply
+34. Promise
