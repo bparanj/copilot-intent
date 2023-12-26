@@ -30,3 +30,6 @@
 28. Closure
 29. this in Top Level Function
 30. this in Method
+31. bind
+32. call
+33. apply
