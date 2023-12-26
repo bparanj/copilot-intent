@@ -1,7 +1,3 @@
-```javascript
-
-```
-
 ## Using 'this' in Top-Level Functions
 
 ```javascript

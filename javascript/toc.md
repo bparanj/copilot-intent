@@ -28,3 +28,5 @@
 26. Passing Functions as Arguments
 27. Function scope
 28. Closure
+29. this in Top Level Function
+30. this in Method
