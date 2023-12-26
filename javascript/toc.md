@@ -34,3 +34,4 @@
 32. call
 33. apply
 34. Promise
+35. async/await
