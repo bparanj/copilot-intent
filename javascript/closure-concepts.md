@@ -8,8 +8,10 @@ Understanding closures in functional programming involves grasping a series of c
    - Learn how variables are accessed and modified within different scopes.
 
 2. **Scope**:
+
    - Grasp the concept of scope, particularly the difference between global and local (function) scope.
    - Understand how variables are accessible within these scopes.
+
 3. **Functions**:
 
    - Understand what functions are and how they work in programming.
